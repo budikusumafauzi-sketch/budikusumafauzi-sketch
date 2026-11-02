@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="148" viewBox="0 0 640 148" role="img" aria-labelledby="st-t st-d">
+  <title id="st-t">GitHub Statistics</title>
+  <desc id="st-d">8 public repositories, 0 followers, 1 following. Updated 2026-11-02.</desc>
+  <defs>
+    <linearGradient id="st-g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#E01B3C"/><stop offset="1" stop-color="#7A0B1D"/></linearGradient>
+    <clipPath id="st-c"><rect x="0.5" y="0.5" width="639" height="147" rx="12"/></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="639" height="147" rx="12" fill="#0A0A0C" stroke="#2A2A30"/>
+  <rect x="0" y="0" width="640" height="3" fill="url(#st-g)" clip-path="url(#st-c)"/>
+  <rect x="28.0" y="26" width="184.0" height="76" rx="8" fill="#16161A" stroke="#2A2A30"/>
+  <rect x="28.0" y="38" width="3" height="52" rx="1.5" fill="#E01B3C"/>
+  <text x="48.0" y="64" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" fill="#F5F5F7" text-anchor="start">8</text>
+  <text x="48.0" y="88" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#9A9AA3" text-anchor="start">Public Repositories</text>
+  <rect x="228.0" y="26" width="184.0" height="76" rx="8" fill="#16161A" stroke="#2A2A30"/>
+  <rect x="228.0" y="38" width="3" height="52" rx="1.5" fill="#E01B3C"/>
+  <text x="248.0" y="64" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" fill="#F5F5F7" text-anchor="start">0</text>
+  <text x="248.0" y="88" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#9A9AA3" text-anchor="start">Followers</text>
+  <rect x="428.0" y="26" width="184.0" height="76" rx="8" fill="#16161A" stroke="#2A2A30"/>
+  <rect x="428.0" y="38" width="3" height="52" rx="1.5" fill="#E01B3C"/>
+  <text x="448.0" y="64" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" fill="#F5F5F7" text-anchor="start">1</text>
+  <text x="448.0" y="88" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#9A9AA3" text-anchor="start">Following</text>
+  <text x="28" y="128" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="400" fill="#9A9AA3" text-anchor="start">Owned public repositories, forks excluded  ·  Updated 2026-11-02</text>
+</svg>

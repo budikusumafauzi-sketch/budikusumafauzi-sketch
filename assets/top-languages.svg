@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="280" viewBox="0 0 640 280" role="img" aria-labelledby="tl-t tl-d">
+  <title id="tl-t">Top Languages - Based on Public Repository Code</title>
+  <desc id="tl-d">TypeScript 71.2%; Python 8.4%; JavaScript 7.7%; HTML 4.5%; Rust 4.2%; Others 4.0%. Updated 2026-11-02.</desc>
+  <defs>
+    <linearGradient id="tl-g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#E01B3C"/><stop offset="1" stop-color="#7A0B1D"/></linearGradient>
+    <clipPath id="tl-c"><rect x="0.5" y="0.5" width="639" height="279" rx="12"/></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="639" height="279" rx="12" fill="#0A0A0C" stroke="#2A2A30"/>
+  <rect x="0" y="0" width="640" height="3" fill="url(#tl-g)" clip-path="url(#tl-c)"/>
+  <text x="28" y="48" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#F5F5F7" text-anchor="start">TypeScript</text>
+  <rect x="190" y="40" width="342" height="8" rx="4" fill="#16161A"/>
+  <rect x="190" y="40" width="243.5" height="8" rx="4" fill="#E01B3C"/>
+  <text x="612" y="48" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#9A9AA3" text-anchor="end">71.2%</text>
+  <text x="28" y="82" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#F5F5F7" text-anchor="start">Python</text>
+  <rect x="190" y="74" width="342" height="8" rx="4" fill="#16161A"/>
+  <rect x="190" y="74" width="28.7" height="8" rx="4" fill="#D01A38"/>
+  <text x="612" y="82" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#9A9AA3" text-anchor="end">8.4%</text>
+  <text x="28" y="116" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#F5F5F7" text-anchor="start">JavaScript</text>
+  <rect x="190" y="108" width="342" height="8" rx="4" fill="#16161A"/>
+  <rect x="190" y="108" width="26.3" height="8" rx="4" fill="#BE1833"/>
+  <text x="612" y="116" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#9A9AA3" text-anchor="end">7.7%</text>
+  <text x="28" y="150" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#F5F5F7" text-anchor="start">HTML</text>
+  <rect x="190" y="142" width="342" height="8" rx="4" fill="#16161A"/>
+  <rect x="190" y="142" width="15.4" height="8" rx="4" fill="#AB162E"/>
+  <text x="612" y="150" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#9A9AA3" text-anchor="end">4.5%</text>
+  <text x="28" y="184" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#F5F5F7" text-anchor="start">Rust</text>
+  <rect x="190" y="176" width="342" height="8" rx="4" fill="#16161A"/>
+  <rect x="190" y="176" width="14.4" height="8" rx="4" fill="#981429"/>
+  <text x="612" y="184" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#9A9AA3" text-anchor="end">4.2%</text>
+  <text x="28" y="218" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#F5F5F7" text-anchor="start">Others</text>
+  <rect x="190" y="210" width="342" height="8" rx="4" fill="#16161A"/>
+  <rect x="190" y="210" width="13.7" height="8" rx="4" fill="#5A5A63"/>
+  <text x="612" y="218" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#9A9AA3" text-anchor="end">4.0%</text>
+  <text x="28" y="262" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="400" fill="#9A9AA3" text-anchor="start">Code composition, not skill level  ·  8 repositories analyzed  ·  Updated 2026-11-02</text>
+</svg>
