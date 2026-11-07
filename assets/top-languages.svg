@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="280" viewBox="0 0 640 280" role="img" aria-labelledby="tl-t tl-d">
   <title id="tl-t">Top Languages - Based on Public Repository Code</title>
-  <desc id="tl-d">TypeScript 71.0%; Python 8.9%; JavaScript 7.6%; HTML 4.5%; Rust 4.1%; Others 3.9%. Updated 2026-11-06.</desc>
+  <desc id="tl-d">TypeScript 71.0%; Python 8.9%; JavaScript 7.6%; HTML 4.5%; Rust 4.1%; Others 3.9%. Updated 2026-11-07.</desc>
   <defs>
     <linearGradient id="tl-g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#E01B3C"/><stop offset="1" stop-color="#7A0B1D"/></linearGradient>
     <clipPath id="tl-c"><rect x="0.5" y="0.5" width="639" height="279" rx="12"/></clipPath>
@@ -31,5 +31,5 @@
   <rect x="190" y="210" width="342" height="8" rx="4" fill="#16161A"/>
   <rect x="190" y="210" width="13.3" height="8" rx="4" fill="#5A5A63"/>
   <text x="612" y="218" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#9A9AA3" text-anchor="end">3.9%</text>
-  <text x="28" y="262" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="400" fill="#9A9AA3" text-anchor="start">Code composition, not skill level  ·  8 repositories analyzed  ·  Updated 2026-11-06</text>
+  <text x="28" y="262" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="400" fill="#9A9AA3" text-anchor="start">Code composition, not skill level  ·  8 repositories analyzed  ·  Updated 2026-11-07</text>
 </svg>
